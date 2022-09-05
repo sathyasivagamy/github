@@ -1,7 +1,10 @@
 <customer>
 	<name>Sathya</name>
 	<state>Tamil Nadu</state>
+<<<<<<< HEAD
 	<city>Karur</city>
 	<age>21</age>
 	<street>Nehru Street</street>
+=======
+>>>>>>> gitwork
 </customer>
